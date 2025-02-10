@@ -1,4 +1,4 @@
-![home](https://github.com/bstoynov/need-to-break/assets/20927667/6e25a559-cf37-4daf-b0c3-adcd8cb5b3e0)
+![image](https://github.com/user-attachments/assets/62b9f174-b826-4ac7-a0d1-9858b4456afa)
 
 ## Using The App
 
@@ -8,26 +8,26 @@ A Timeline is a sequence of work and break intervals that can help you track you
 <br/><br/>
 Go to the Timeline screen by clicking the **Timeline** tab in the top navigation:
 
-![timelinescreen](https://github.com/bstoynov/need-to-break/assets/20927667/b9ad42ea-ac12-4ea9-b116-162c5fd20e4b)
+![image](https://github.com/user-attachments/assets/9469321d-a2d5-4003-98e2-ea7e6db545ca)
 <br/><br/>
 
 Use the **Timeline Duration** and **Interval Size** controls to create your timeline:
 
-![timdur](https://github.com/bstoynov/need-to-break/assets/20927667/c6ff66c6-792d-4080-96f3-62f177652004)
+![image](https://github.com/user-attachments/assets/ce644963-b302-4068-a87e-7f8b6d058180)
 <br/><br/>
 
 The generated Timeline will appear at the bottom of the page and it will be updated automatically every time you make a change.
 <br/><br/>
 Once you are done making changes, click on the **Start** button to start the Timeline:
 
-![starttim](https://github.com/bstoynov/need-to-break/assets/20927667/8b79c4b1-3dd5-4685-aeee-6da9b5bd47ee)
+![image](https://github.com/user-attachments/assets/b3ce784e-aa7c-48c6-a7e2-f4e6d4548419)
 <br/><br/>
 
 Once you start the Timeline, you will see the active Timeline screen. Here you can keep track of your work and break intervals.
 <br/><br/>
 Cick on the **Stop Timeline** button if you want to delete the current active Timeline and start over:
 
-![stop](https://github.com/bstoynov/need-to-break/assets/20927667/85c3cc90-4a7f-48cf-8487-7b41c3727cf3)
+![image](https://github.com/user-attachments/assets/4ebbba74-8a0f-48b0-89f6-6c2a7fe6cba2)
 <br/><br/>
 
 ### Using Presets
@@ -36,35 +36,35 @@ You can save a Timeline to your account for later use. This is called a **Preset
 <br/><br/>
 Create a new Timeline from the Timeline screen and click the **Save** button:
 
-![savetim](https://github.com/bstoynov/need-to-break/assets/20927667/2bc7a871-cfe9-4be9-8ec9-071b272d32c2)
+![image](https://github.com/user-attachments/assets/88944caf-4577-407d-b64b-c28c622227ef)
 <br/><br/>
 
 You will see a modal prompting you to create an account.
 <br/><br/>
 Enter your username and password and click the **Sign Up** button:
 
-![signupclick](https://github.com/bstoynov/need-to-break/assets/20927667/bbc1b5cf-b594-459a-8ba3-4e10c8deed62)
+![image](https://github.com/user-attachments/assets/e07262e5-4576-4a63-a0d2-47b0d3ac6da7)
 <br/><br/>
 
 Once you create your account, click on the **Save** button once again. You should see a new modal appear prompting you to save your timeline.
 <br/><br/>
 Enter the name of your Preset and click the **Save** button:
 
-![savepre](https://github.com/bstoynov/need-to-break/assets/20927667/76ca3342-8119-4ffe-ae93-d306a0dc2c56)
+![image](https://github.com/user-attachments/assets/4f4118e4-6624-47ef-8e35-209b1f5d0316)
 <br/><br/>
 
 Once you have saved your Preset, you will be redirected to the **Presets** screen where you can manage all of your Presets.
 <br/><br/>
 To delete a Preset, click on the **Delete** button:
 
-![delpre](https://github.com/bstoynov/need-to-break/assets/20927667/e30d9f20-6d8b-4ef9-b0ff-372dd1f40f32)
+![image](https://github.com/user-attachments/assets/56613749-9b4c-4d24-b248-3f00c1287a64)
 <br/><br/>
 
 You will see a modal prompting you to delete the preset.
 <br/><br/>
 Click on the **Delete** button:
 
-![delmodal](https://github.com/bstoynov/need-to-break/assets/20927667/dbf7777a-6e84-4bf0-8b1f-0b97b96ec31b)
+![image](https://github.com/user-attachments/assets/eaaa2e5a-9ed7-43af-b8d7-cfce8b955d30)
 
 ## Local Setup
 
@@ -78,7 +78,7 @@ Run `npm run dev` from the repository's root to start the local dev build.
 
 Go to `localhost:3000` to access the app:
 
-![local](https://github.com/bstoynov/need-to-break/assets/20927667/701b9c84-3aa7-436d-bf97-8a7fa712b303)
+![image](https://github.com/user-attachments/assets/3b2de016-efd6-4533-87a0-4a00d1162eda)
 <br/><br/>
 
 ### (Optional) Configure Firebase
@@ -92,7 +92,7 @@ Go to https://console.firebase.google.com/ and find your app's `firebaseConfig`.
 Create a file called `.env.development.local` in the project's root and set your environment variables to match the `firebaseConfig`\
 (You can reference the provided example `.env.development` file):
 
-![envlocal](https://github.com/bstoynov/need-to-break/assets/20927667/4e12dae0-cb5e-4baf-9996-f17da9266ab5)
+![image](https://github.com/user-attachments/assets/ea8e066c-dc44-44e1-80da-f3b500c91ab4)
 <br/><br/>
 
 Restart the dev server by running `npm run dev` again.
